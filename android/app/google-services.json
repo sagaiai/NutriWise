@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "6749358419",
+    "project_id": "test-hackathon-69055",
+    "storage_bucket": "test-hackathon-69055.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6749358419:android:3e98cbf6c52943d07679a6",
+        "android_client_info": {
+          "package_name": "com.example.galores_ai_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6749358419-h36dhsa378r1nbbaaksv1bem38ja986f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.galores_ai_application",
+            "certificate_hash": "20396e3c551273bbd1bc6e7d9bf472e3315f0074"
+          }
+        },
+        {
+          "client_id": "6749358419-ntckjdq6qp76jsgq775hfn5q10qis8lf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjOWDsestbf7fePcazwbD2q93oNP_0pdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6749358419-ntckjdq6qp76jsgq775hfn5q10qis8lf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
