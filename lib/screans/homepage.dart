@@ -163,7 +163,7 @@ class _HomepageState extends State<Homepage> {
                     fontWeight: FontWeight.bold,
                     fontSize: 20,
                   ),
-                ),
+                ), // that is becous this is emulator it is not real phone
                 content: Column(
                   mainAxisSize: MainAxisSize.min,
                   children: [

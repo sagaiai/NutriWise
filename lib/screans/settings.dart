@@ -143,7 +143,7 @@ class SettingsPage extends StatelessWidget {
                 ),
                 const SizedBox(height: 4),
                 Text(
-                  'Developed by Hazem Al-Sujaee (Age 14)',
+                  'Developed by Hazem sejjai (Age 14) \n hafsa sejjai art and ui design',
                   style: TextStyle(
                     color: Color(0xFF6BC015),
                     fontSize: 12,
